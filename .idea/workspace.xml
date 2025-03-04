@@ -5,88 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b69fc06a-5ba8-4de9-b8f8-4a3b424d3a0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Black.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Black.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-BlackItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-BlackItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-BlackItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-BoldItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-BoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-BoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Extralight.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Extralight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Extralight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Extralight.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-ExtralightItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-ExtralightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-ExtralightItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-ExtralightItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-LightItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-LightItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-LightItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-MediumItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-MediumItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-MediumItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-RegularItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-RegularItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-RegularItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-RegularItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Semibold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Semibold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Semibold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Semibold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-SemiboldItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-SemiboldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-SemiboldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-SemiboldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Super.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Super.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Super.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Super.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-SuperItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-SuperItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-SuperItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-SuperItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-ThinItalic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-ThinItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/Graphik-ThinItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/graphic/graphic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/linkedin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icons/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/main-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/menu-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741034214153</updated>
-      <workItem from="1741034215270" duration="21678000" />
+      <workItem from="1741034215270" duration="22666000" />
     </task>
     <servers />
   </component>
