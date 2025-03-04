@@ -1,0 +1,118 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Graphik', sans-serif;
+}
+html *, body * {
+    font-family: 'Graphik', sans-serif;
+}
+.flex {
+    display: flex;
+}
+
+.main-background {
+    width: 100%;
+    height: 1042px;
+    background-image: url("assets/images/main-background.png");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: contain;
+    z-index: 0;
+}
+
+.menu-header {
+    position: fixed;
+    background-color: black;
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-left: 16.1%;
+    padding-right: 16.1%;
+    z-index: 1;
+    .menu-header-wrapper {
+        padding: 39px 40px;
+        width: 63.09%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+.menu-links {
+    display: flex;
+    align-items: center;
+}
+
+.menu-links a {
+    padding: 10px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+
+}
+.menu-links a:not(:last-of-type) {
+    margin-right: 18px;
+}
+.menu-links .links-container {
+    margin-right: 27px;
+}
+
+.menu-logo {
+    padding: 10px;
+    /*background-image: url("assets/menu-logo.png");*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 59px;
+    width: 246px;
+}
+
+.menu-social-icons {
+    width: 14.132%;
+    display: flex;
+    justify-content: space-around;
+}
+.menu-social-icons img {
+    padding: 10px;
+}
+.menu-social-icons img:not(:last-of-type) {
+    margin-right: 11px;
+}
+
+.main-content {
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    z-index: 0;
+    color: #FFFFFF;
+    top: 240px;
+    margin: 30px 77px 137px 77px;
+    padding-left: 477px;
+    padding-right: 475px;
+}
+
+.main-content-header-text-1 {
+    font-weight: 700;
+    font-size: 74px;
+    line-height: 84px;
+}
+
+.main-content-header-text-2 {
+    font-weight: 700;
+    font-size: 74px;
+    line-height: 84px;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+
+.main-content-text {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+
+}
